@@ -1,1 +1,1 @@
-print("Hello from our automated app! Version 2.0")
+print("Hello from our automated app! Version 3.0")
